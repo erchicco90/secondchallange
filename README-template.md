@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![ScreenShot](./assets/images/FrontendMentorResultssummarycomponent.png)
+![ScreenShot](./images/FrontendMentorResultssummarycomponent.png)
 
 
 ### Links
