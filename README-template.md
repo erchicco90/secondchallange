@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/erchicco90/secondchallange))
+- Solution URL: https://github.com/erchicco90/secondchallange
 - Live Site URL: https://erchicco90.github.io/secondchallange/
 ## My process
 
@@ -43,13 +43,12 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+I've learned how to improve my flexbox skill, the use of @media that was the most difficult part
 
 
 
@@ -59,12 +58,7 @@ Use this section to recap over some of your major learnings while working throug
 I have been learning css and html for almost 2 months now, and this is my second challenge on frontendmentor. I'm lookin for any advices that could help me improving. 
 Keep pushing
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 
 ## Author
