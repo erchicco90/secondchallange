@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://github.com/erchicco90/secondchallange))
 - Live Site URL: https://erchicco90.github.io/secondchallange/
 ## My process
 
