@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![ScreenShot](assets/images/Frontend Mentor Results summary component.png)
+![ScreenShot](https://github.com/erchicco90/secondchallange/blob/main/assets/images/Frontend%20Mentor%20Results%20summary%20component.png?raw=true)
 
 
 ### Links
