@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-./
+![ScreenShot](./images/Frontend Mentor Results summary component.png)
 
 
 ### Links
